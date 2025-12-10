@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "total": 10000,
+    "accepted": 0,
+    "rejected_short": 0,
+    "rejected_long": 0,
+    "rejected_empty": 10000
+  },
+  "train": [],
+  "validation": [],
+  "test": []
+}
